@@ -1,0 +1,45 @@
+.linechart {
+  padding: 8px;
+}
+.linechart_path {
+  stroke-width: 3;
+  fill: none;
+}
+
+.linechart_axis {
+  stroke: #ece9f0;
+}
+
+.linechart_point {
+  fill: #fff;
+  stroke-width: 2;
+}
+
+.linechart_area {
+  padding: 8px;
+  fill: #6f94c3;
+  stroke: none;
+  opacity: 0.4;
+}
+
+.linechart_label {
+  fill: #ece9f0;
+  font-weight: 700;
+}
+
+.hoverLine {
+  stroke: #fa5589;
+  stroke-width: 1;
+}
+
+.chart {
+  width: 80%;
+  height: 350px;
+  background: #313477;
+}
+svg {
+  width: 100%;
+  height: 300px;
+  position: relative;
+  border: 2px solid #ece9f0;
+}

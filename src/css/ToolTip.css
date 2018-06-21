@@ -1,0 +1,15 @@
+.hover {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  position: absolute;
+  padding: 5px;
+  border-radius: 4px;
+  background-color: #6f94c3;
+  color: #ece9f0;
+}
+
+.hover .price {
+  font-weight: 700;
+}

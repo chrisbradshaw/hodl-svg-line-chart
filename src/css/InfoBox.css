@@ -1,0 +1,42 @@
+#data-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.box {
+  width: 250px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.heading {
+  font-size: 2.5em;
+  color: #4ab9f0;
+}
+
+.heading-red {
+  font-size: 2.5em;
+  color: #fa5589;
+}
+
+.subtext {
+  color: #ece9f0;
+}
+
+#left {
+  margin-right: 48px;
+}
+
+#middle {
+  padding: 0 48px;
+  border-left: 1px solid #dae1e9;
+  border-right: 1px solid #dae1e9;
+}
+
+#right {
+  margin-left: 48px;
+}
