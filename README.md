@@ -2,7 +2,7 @@
 
 > React.js app that monitors changes in the Bitcoin Price Index (BPI)
 
-![](header.png)
+![](https://github.com/chrisbradshaw/hodl-svg-line-chart/blob/master/src/img/hodl-chart.png?raw=true)
 
 ## Built With
 
@@ -17,24 +17,6 @@
 - React.js uses Axios to get Data from CoinDesk
 - Graphs BTC price for the last 30 days
 - Renders data on Line Graph in SVG
-
-## Installation
-
-```sh
-npm start or yarn start
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
-```
-
-## Usage example
-
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
 
 ## Development setup
 
@@ -53,7 +35,7 @@ This project is licensed under the MIT License.
 
 ## Contributing
 
-1.  Fork it (<https://github.com/yourname/chrisbradshaw/>)
+1.  Fork it (<https://github.com/chrisbradshaw/hodl-svg-line-chart>)
 2.  Create your feature branch (`git checkout -b feature/fooBar`)
 3.  Commit your changes (`git commit -am 'Add some fooBar'`)
 4.  Push to the branch (`git push origin feature/fooBar`)
