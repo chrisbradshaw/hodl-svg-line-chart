@@ -58,11 +58,9 @@ class App extends Component {
       <div className="container">
         <div className="row">
           <img
-            src="/Users/christopherbradshaw/dev/portfolio-react-projects/react-svg-line-chart/src/img/hodl-reduce-lg.png"
-            alt="Coindesk"
-            width="100px"
+            src="https://github.com/chrisbradshaw/hodl-svg-line-chart/blob/master/src/img/hodl-reduce-lg.png?raw=true"
+            alt="HODL"
           />
-          <h1>BTC Price Mapped Over 30 Days</h1>
         </div>
         <div className="row">
           {!this.state.fetchingData && <InfoBox data={this.state.data} />}
